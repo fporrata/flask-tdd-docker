@@ -1,4 +1,7 @@
 env
+heroku
+htmlcov
 .dockerignore
+.coveragerc
 Dockerfile
 Dockerfile.prod
